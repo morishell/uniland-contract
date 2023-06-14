@@ -16,6 +16,10 @@ Here, every planet contains valuable nutrients, waiting for brave explorers to d
 
 Join us now and explore this mysterious universe together, get the nutrients of wisdom planets. Here, everyone has the potential to be the key to victory and share the joy of nutrients. UniLand looks forward to your joining, let us create a more intelligent future together!
 
+## Experimental
+
+UniLand is not just an Othello game, but an experimental extension of ZK privacy blockchain technology. We aim to transfer more collective intelligence of players to AI, and this process hopes to realize voting management and reward distribution through ZK’s privacy technology. This makes the game interaction more fair and interesting, and traces the intellectual contributions of humans.  
+
 
 ## Build Guide
 
