@@ -1,5 +1,8 @@
 # Welcome to UniLand
 
+![image](https://github.com/morishell/uniland-contract/assets/100350726/ca28aa2d-6c8f-4098-a26f-1e8051603e23)
+
+
 ## A mysterious universe based on the classic game Othello on Aleo chain
 
 Here, every planet contains valuable nutrients, waiting for brave explorers to discover. The acquisition of nutrients is aimed at rewarding explorers who successfully challenge AI Mori. In this cosmic adventure, you can not only experience the challenge and fun of Othello, but also have the opportunity to participate in this journey of wisdom while making every move. We use Aleo ZK privacy blockchain technology to ensure your privacy and the privacy of other explorers in the decision-making process, and share the rich nutrients of the Genesis planet.
